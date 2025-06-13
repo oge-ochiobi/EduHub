@@ -1,0 +1,688 @@
+[{
+  "_id": {
+    "$oid": "684c33801fc65e78360739d9"
+  },
+  "userId": "INST001",
+  "email": "pattersonshari@example.org",
+  "firstName": "Betty",
+  "lastName": "Brown",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-03-11T05:43:26.000Z"
+  },
+  "profile": {
+    "bio": "Final once pick bring.",
+    "avatar": "https://dummyimage.com/617x329",
+    "skills": [
+      "Cloud",
+      "Python",
+      "MongoDB"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739da"
+  },
+  "userId": "INST002",
+  "email": "dfernandez@example.net",
+  "firstName": "Corey",
+  "lastName": "Snyder",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-01-14T07:24:52.000Z"
+  },
+  "profile": {
+    "bio": "Successful such could which art support.",
+    "avatar": "https://picsum.photos/29/160",
+    "skills": [
+      "Cloud",
+      "Data Analysis",
+      "Python"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739db"
+  },
+  "userId": "INST003",
+  "email": "wcunningham@example.com",
+  "firstName": "Amber",
+  "lastName": "Harris",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-04-02T22:26:09.000Z"
+  },
+  "profile": {
+    "bio": "Bit two board design source growth.",
+    "avatar": "https://dummyimage.com/436x649",
+    "skills": [
+      "Python",
+      "Data Analysis",
+      "MongoDB"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739dc"
+  },
+  "userId": "INST004",
+  "email": "uholland@example.net",
+  "firstName": "Nancy",
+  "lastName": "Ware",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-04-27T18:42:38.000Z"
+  },
+  "profile": {
+    "bio": "Culture shoulder them line same common today.",
+    "avatar": "https://picsum.photos/497/564",
+    "skills": [
+      "Cloud",
+      "APIs",
+      "MongoDB"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739dd"
+  },
+  "userId": "INST005",
+  "email": "hking@example.com",
+  "firstName": "Donna",
+  "lastName": "Santos",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-04-01T02:50:02.000Z"
+  },
+  "profile": {
+    "bio": "Money military work marriage morning space his.",
+    "avatar": "https://placekitten.com/572/120",
+    "skills": [
+      "Data Analysis",
+      "APIs",
+      "Cloud"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739de"
+  },
+  "userId": "STD001",
+  "email": "deleonluis@example.com",
+  "firstName": "Michael",
+  "lastName": "Mckinney",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-02-20T02:34:44.000Z"
+  },
+  "profile": {
+    "bio": "User-friendly web-enabled middleware",
+    "avatar": "https://dummyimage.com/548x777",
+    "skills": [
+      "Python",
+      "Git"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739df"
+  },
+  "userId": "STD002",
+  "email": "xdeleon@example.net",
+  "firstName": "Haley",
+  "lastName": "Schultz",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-03-13T07:35:54.000Z"
+  },
+  "profile": {
+    "bio": "Realigned transitional neural-net",
+    "avatar": "https://picsum.photos/811/102",
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739e0"
+  },
+  "userId": "STD003",
+  "email": "fstone@example.net",
+  "firstName": "Travis",
+  "lastName": "Wallace",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-05-03T00:59:23.000Z"
+  },
+  "profile": {
+    "bio": "Profit-focused web-enabled support",
+    "avatar": "https://picsum.photos/782/127",
+    "skills": [
+      "Power BI",
+      "Python"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739e1"
+  },
+  "userId": "STD004",
+  "email": "anita71@example.org",
+  "firstName": "Alexis",
+  "lastName": "Gonzalez",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-03-26T15:23:48.000Z"
+  },
+  "profile": {
+    "bio": "Ameliorated regional array",
+    "avatar": "https://dummyimage.com/753x496",
+    "skills": [
+      "Git",
+      "Excel"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739e2"
+  },
+  "userId": "STD005",
+  "email": "joseph54@example.net",
+  "firstName": "Carl",
+  "lastName": "Fisher",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-05-08T03:48:11.000Z"
+  },
+  "profile": {
+    "bio": "Fundamental maximized encryption",
+    "avatar": "https://dummyimage.com/89x58",
+    "skills": [
+      "Power BI",
+      "Python"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739e3"
+  },
+  "userId": "STD006",
+  "email": "nicholas68@example.org",
+  "firstName": "Sean",
+  "lastName": "Miller",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-02-10T08:31:44.000Z"
+  },
+  "profile": {
+    "bio": "De-engineered foreground moderator",
+    "avatar": "https://placekitten.com/691/864",
+    "skills": [
+      "Power BI",
+      "Python"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739e4"
+  },
+  "userId": "STD007",
+  "email": "emily86@example.com",
+  "firstName": "Tammy",
+  "lastName": "Richardson",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-04T04:57:17.000Z"
+  },
+  "profile": {
+    "bio": "Intuitive incremental service-desk",
+    "avatar": "https://dummyimage.com/427x894",
+    "skills": [
+      "Excel",
+      "Power BI"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739e5"
+  },
+  "userId": "STD008",
+  "email": "sarahrobinson@example.net",
+  "firstName": "Michael",
+  "lastName": "Martinez",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-04-10T01:57:27.000Z"
+  },
+  "profile": {
+    "bio": "Up-sized 3rdgeneration leverage",
+    "avatar": "https://dummyimage.com/434x605",
+    "skills": [
+      "Python",
+      "Git"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739e6"
+  },
+  "userId": "STD009",
+  "email": "philiparmstrong@example.org",
+  "firstName": "Deborah",
+  "lastName": "Park",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-02-28T01:04:58.000Z"
+  },
+  "profile": {
+    "bio": "Expanded multi-state service-desk",
+    "avatar": "https://dummyimage.com/670x619",
+    "skills": [
+      "SQL",
+      "Power BI"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739e7"
+  },
+  "userId": "STD010",
+  "email": "brett47@example.net",
+  "firstName": "Jeff",
+  "lastName": "Powell",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-02-16T02:08:43.000Z"
+  },
+  "profile": {
+    "bio": "Profound 4thgeneration budgetary management",
+    "avatar": "https://dummyimage.com/692x628",
+    "skills": [
+      "Excel",
+      "SQL"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739e8"
+  },
+  "userId": "STD011",
+  "email": "christopherchavez@example.com",
+  "firstName": "Kelsey",
+  "lastName": "Price",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-03-03T07:35:55.000Z"
+  },
+  "profile": {
+    "bio": "Streamlined analyzing middleware",
+    "avatar": "https://dummyimage.com/49x857",
+    "skills": [
+      "Excel",
+      "Python"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739e9"
+  },
+  "userId": "STD012",
+  "email": "richardsmith@example.org",
+  "firstName": "Alyssa",
+  "lastName": "Cruz",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-01-26T22:21:16.000Z"
+  },
+  "profile": {
+    "bio": "De-engineered maximized model",
+    "avatar": "https://picsum.photos/178/827",
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739ea"
+  },
+  "userId": "STD013",
+  "email": "stevenstaylor@example.org",
+  "firstName": "Joseph",
+  "lastName": "Summers",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-05-29T16:28:38.000Z"
+  },
+  "profile": {
+    "bio": "User-centric logistical frame",
+    "avatar": "https://picsum.photos/542/760",
+    "skills": [
+      "Git",
+      "Power BI"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739eb"
+  },
+  "userId": "STD014",
+  "email": "speters@example.com",
+  "firstName": "Kelly",
+  "lastName": "Gonzalez",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-04-03T14:52:41.000Z"
+  },
+  "profile": {
+    "bio": "Reverse-engineered upward-trending solution",
+    "avatar": "https://picsum.photos/472/597",
+    "skills": [
+      "Python",
+      "Power BI"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739ec"
+  },
+  "userId": "STD015",
+  "email": "ryan88@example.net",
+  "firstName": "Angelica",
+  "lastName": "Jackson",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-05-06T19:18:11.000Z"
+  },
+  "profile": {
+    "bio": "Integrated demand-driven interface",
+    "avatar": "https://picsum.photos/80/777",
+    "skills": [
+      "SQL",
+      "Power BI"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739ed"
+  },
+  "userId": "STD016",
+  "email": "smithchelsea@example.com",
+  "firstName": "Nicholas",
+  "lastName": "Mcfarland",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-01-03T13:01:19.000Z"
+  },
+  "profile": {
+    "bio": "Implemented didactic conglomeration",
+    "avatar": "https://placekitten.com/470/264",
+    "skills": [
+      "Power BI",
+      "Excel"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739ee"
+  },
+  "userId": "STD017",
+  "email": "wiserebecca@example.com",
+  "firstName": "James",
+  "lastName": "Estes",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-02-19T08:17:52.000Z"
+  },
+  "profile": {
+    "bio": "Switchable coherent toolset",
+    "avatar": "https://dummyimage.com/992x646",
+    "skills": [
+      "Excel",
+      "Power BI"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739ef"
+  },
+  "userId": "STD018",
+  "email": "mclay@example.org",
+  "firstName": "Theodore",
+  "lastName": "Carson",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-01-27T08:52:49.000Z"
+  },
+  "profile": {
+    "bio": "Business-focused coherent focus group",
+    "avatar": "https://picsum.photos/1009/953",
+    "skills": [
+      "Power BI",
+      "SQL"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739f0"
+  },
+  "userId": "STD019",
+  "email": "cooperandrew@example.com",
+  "firstName": "Russell",
+  "lastName": "Adkins",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-02-11T21:49:16.000Z"
+  },
+  "profile": {
+    "bio": "Sharable 4thgeneration website",
+    "avatar": "https://picsum.photos/337/291",
+    "skills": [
+      "Power BI",
+      "SQL"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739f1"
+  },
+  "userId": "STD020",
+  "email": "stephanienelson@example.net",
+  "firstName": "Sheila",
+  "lastName": "Walker",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-05-07T17:11:52.000Z"
+  },
+  "profile": {
+    "bio": "Sharable static hub",
+    "avatar": "https://picsum.photos/150/426",
+    "skills": [
+      "Git",
+      "Power BI"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739f2"
+  },
+  "userId": "STD021",
+  "email": "bblackburn@example.org",
+  "firstName": "Jeffery",
+  "lastName": "Jones",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-04-22T11:11:51.000Z"
+  },
+  "profile": {
+    "bio": "Multi-channeled incremental standardization",
+    "avatar": "https://picsum.photos/627/332",
+    "skills": [
+      "Git",
+      "Python"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739f3"
+  },
+  "userId": "STD022",
+  "email": "james63@example.org",
+  "firstName": "Timothy",
+  "lastName": "Ortega",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-03-21T16:56:01.000Z"
+  },
+  "profile": {
+    "bio": "Phased optimizing projection",
+    "avatar": "https://dummyimage.com/694x667",
+    "skills": [
+      "SQL",
+      "Git"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739f4"
+  },
+  "userId": "STD023",
+  "email": "dunlapshelby@example.org",
+  "firstName": "Marilyn",
+  "lastName": "Williams",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-02-23T15:40:36.000Z"
+  },
+  "profile": {
+    "bio": "Centralized bandwidth-monitored service-desk",
+    "avatar": "https://placekitten.com/844/512",
+    "skills": [
+      "Git",
+      "Python"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739f5"
+  },
+  "userId": "STD024",
+  "email": "bergerdennis@example.com",
+  "firstName": "Joshua",
+  "lastName": "Hartman",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-04-24T22:26:09.000Z"
+  },
+  "profile": {
+    "bio": "Stand-alone holistic adapter",
+    "avatar": "https://dummyimage.com/808x840",
+    "skills": [
+      "Python",
+      "Power BI"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c33801fc65e78360739f6"
+  },
+  "userId": "STD025",
+  "email": "chad55@example.com",
+  "firstName": "Theresa",
+  "lastName": "Oliver",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-05-15T06:11:15.000Z"
+  },
+  "profile": {
+    "bio": "Up-sized systemic interface",
+    "avatar": "https://dummyimage.com/225x908",
+    "skills": [
+      "Excel",
+      "Power BI"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684c38ae1fc65e7836073a3e"
+  },
+  "userId": "STD999",
+  "email": "newstudent@eduhub.com",
+  "firstName": "Nina",
+  "lastName": "Ola",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-13T15:41:50.861Z"
+  },
+  "profile": {
+    "bio": "Updated bio: Love learning!",
+    "avatar": "http://eduhub.com/avatars/nina.png",
+    "skills": [
+      "Python",
+      "MongoDB",
+      "Ethics"
+    ]
+  },
+  "isActive": false
+}]
