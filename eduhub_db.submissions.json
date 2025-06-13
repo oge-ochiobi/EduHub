@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a32"
+  },
+  "submissionId": "SBM001",
+  "assignmentId": "ASN001",
+  "studentId": "STD019",
+  "fileLink": "https://placekitten.com/622/685",
+  "submittedAt": {
+    "$date": "2025-06-07T15:24:22.151Z"
+  },
+  "grade": 92,
+  "feedback": "Updated feedback after review"
+},
+{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a33"
+  },
+  "submissionId": "SBM002",
+  "assignmentId": "ASN010",
+  "studentId": "STD002",
+  "fileLink": "https://placekitten.com/445/597",
+  "submittedAt": {
+    "$date": "2025-06-07T15:24:22.151Z"
+  },
+  "grade": 99,
+  "feedback": "Already course trial city first."
+},
+{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a34"
+  },
+  "submissionId": "SBM003",
+  "assignmentId": "ASN005",
+  "studentId": "STD023",
+  "fileLink": "https://placekitten.com/434/17",
+  "submittedAt": {
+    "$date": "2025-06-08T15:24:22.151Z"
+  },
+  "grade": 99,
+  "feedback": "Baby week college least accept score together."
+},
+{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a35"
+  },
+  "submissionId": "SBM004",
+  "assignmentId": "ASN010",
+  "studentId": "STD010",
+  "fileLink": "https://dummyimage.com/81x937",
+  "submittedAt": {
+    "$date": "2025-06-11T15:24:22.151Z"
+  },
+  "grade": 57,
+  "feedback": "Whatever wall measure voice place."
+},
+{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a36"
+  },
+  "submissionId": "SBM005",
+  "assignmentId": "ASN005",
+  "studentId": "STD015",
+  "fileLink": "https://dummyimage.com/775x358",
+  "submittedAt": {
+    "$date": "2025-06-09T15:24:22.151Z"
+  },
+  "grade": 76,
+  "feedback": "Top writer call then grow."
+},
+{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a37"
+  },
+  "submissionId": "SBM006",
+  "assignmentId": "ASN001",
+  "studentId": "STD025",
+  "fileLink": "https://placekitten.com/743/702",
+  "submittedAt": {
+    "$date": "2025-06-12T15:24:22.151Z"
+  },
+  "grade": 74,
+  "feedback": "Small country month."
+},
+{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a38"
+  },
+  "submissionId": "SBM007",
+  "assignmentId": "ASN004",
+  "studentId": "STD017",
+  "fileLink": "https://placekitten.com/917/701",
+  "submittedAt": {
+    "$date": "2025-06-06T15:24:22.152Z"
+  },
+  "grade": 70,
+  "feedback": "Attorney environment assume attack head."
+},
+{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a39"
+  },
+  "submissionId": "SBM008",
+  "assignmentId": "ASN004",
+  "studentId": "STD020",
+  "fileLink": "https://picsum.photos/680/821",
+  "submittedAt": {
+    "$date": "2025-06-10T15:24:22.152Z"
+  },
+  "grade": 44,
+  "feedback": "Culture look usually hear."
+},
+{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a3a"
+  },
+  "submissionId": "SBM009",
+  "assignmentId": "ASN010",
+  "studentId": "STD004",
+  "fileLink": "https://dummyimage.com/603x956",
+  "submittedAt": {
+    "$date": "2025-06-09T15:24:22.152Z"
+  },
+  "grade": 57,
+  "feedback": "Day blood lay you fill lose foot."
+},
+{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a3b"
+  },
+  "submissionId": "SBM010",
+  "assignmentId": "ASN002",
+  "studentId": "STD015",
+  "fileLink": "https://picsum.photos/202/219",
+  "submittedAt": {
+    "$date": "2025-06-06T15:24:22.152Z"
+  },
+  "grade": 54,
+  "feedback": "Still fast now foot."
+},
+{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a3c"
+  },
+  "submissionId": "SBM011",
+  "assignmentId": "ASN009",
+  "studentId": "STD015",
+  "fileLink": "https://picsum.photos/914/698",
+  "submittedAt": {
+    "$date": "2025-06-08T15:24:22.152Z"
+  },
+  "grade": 96,
+  "feedback": "Result price herself."
+},
+{
+  "_id": {
+    "$oid": "684c34961fc65e7836073a3d"
+  },
+  "submissionId": "SBM012",
+  "assignmentId": "ASN006",
+  "studentId": "STD004",
+  "fileLink": "https://dummyimage.com/591x957",
+  "submittedAt": {
+    "$date": "2025-06-06T15:24:22.152Z"
+  },
+  "grade": 73,
+  "feedback": "Sometimes plant available nothing free."
+}]

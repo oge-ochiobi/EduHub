@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "684c346d1fc65e7836073a28"
+  },
+  "assignmentId": "ASN001",
+  "courseId": "CRS007",
+  "title": "Spring animal protect generation amount easy available.",
+  "description": "Stay where nice property social. All finally box power marriage force bar. Their middle entire recognize drop none available.",
+  "dueDate": {
+    "$date": "2025-06-18T15:23:41.849Z"
+  },
+  "totalMarks": 50
+},
+{
+  "_id": {
+    "$oid": "684c346d1fc65e7836073a29"
+  },
+  "assignmentId": "ASN002",
+  "courseId": "CRS003",
+  "title": "Marriage wall team former chair.",
+  "description": "Respond structure him know answer according. Past reduce character that.",
+  "dueDate": {
+    "$date": "2025-06-26T15:23:41.850Z"
+  },
+  "totalMarks": 50
+},
+{
+  "_id": {
+    "$oid": "684c346d1fc65e7836073a2a"
+  },
+  "assignmentId": "ASN003",
+  "courseId": "CRS002",
+  "title": "Organization consider require population job cut billion training.",
+  "description": "Certain well hear positive world. Current weight interview finish beyond. Economic nature wish.",
+  "dueDate": {
+    "$date": "2025-07-05T15:23:41.850Z"
+  },
+  "totalMarks": 50
+},
+{
+  "_id": {
+    "$oid": "684c346d1fc65e7836073a2b"
+  },
+  "assignmentId": "ASN004",
+  "courseId": "CRS006",
+  "title": "Knowledge environment ago public.",
+  "description": "Sense example money debate election. Away everyone agreement none see heavy.",
+  "dueDate": {
+    "$date": "2025-06-25T15:23:41.851Z"
+  },
+  "totalMarks": 50
+},
+{
+  "_id": {
+    "$oid": "684c346d1fc65e7836073a2c"
+  },
+  "assignmentId": "ASN005",
+  "courseId": "CRS007",
+  "title": "Mention pass establish food field support room.",
+  "description": "Level reflect commercial method practice air. Someone year however factor interview each.\nAt remain send. Accept available thank system.",
+  "dueDate": {
+    "$date": "2025-07-10T15:23:41.851Z"
+  },
+  "totalMarks": 100
+},
+{
+  "_id": {
+    "$oid": "684c346d1fc65e7836073a2d"
+  },
+  "assignmentId": "ASN006",
+  "courseId": "CRS007",
+  "title": "Air find discussion safe.",
+  "description": "Film sell magazine theory water other. Letter thus management wind court.\nFar perform both newspaper. Voice energy minute main although.",
+  "dueDate": {
+    "$date": "2025-07-12T15:23:41.851Z"
+  },
+  "totalMarks": 100
+},
+{
+  "_id": {
+    "$oid": "684c346d1fc65e7836073a2e"
+  },
+  "assignmentId": "ASN007",
+  "courseId": "CRS002",
+  "title": "Improve individual reason position goal.",
+  "description": "Art local president together audience change every. Skill sing leg. Action structure focus pressure represent.",
+  "dueDate": {
+    "$date": "2025-07-06T15:23:41.852Z"
+  },
+  "totalMarks": 50
+},
+{
+  "_id": {
+    "$oid": "684c346d1fc65e7836073a2f"
+  },
+  "assignmentId": "ASN008",
+  "courseId": "CRS005",
+  "title": "Strong approach less those himself money determine police.",
+  "description": "Within from treatment piece off girl. Charge car lead indeed. Reflect according recent direction. Before result walk chance place simple stock.",
+  "dueDate": {
+    "$date": "2025-07-08T15:23:41.852Z"
+  },
+  "totalMarks": 50
+},
+{
+  "_id": {
+    "$oid": "684c346d1fc65e7836073a30"
+  },
+  "assignmentId": "ASN009",
+  "courseId": "CRS007",
+  "title": "Reality much next like say rule modern.",
+  "description": "Write how surface animal. Tax movement specific. Ahead raise couple despite center.\nEvent father go property. Tell decade although south trip hand. Job seven direction station list discussion than.",
+  "dueDate": {
+    "$date": "2025-06-26T15:23:41.852Z"
+  },
+  "totalMarks": 100
+},
+{
+  "_id": {
+    "$oid": "684c346d1fc65e7836073a31"
+  },
+  "assignmentId": "ASN010",
+  "courseId": "CRS001",
+  "title": "Partner matter career run room ahead to.",
+  "description": "Ball key his conference work personal total allow. East image live explain feeling.\nListen decision these garden. Get music admit western.",
+  "dueDate": {
+    "$date": "2025-06-26T15:23:41.853Z"
+  },
+  "totalMarks": 100
+}]
